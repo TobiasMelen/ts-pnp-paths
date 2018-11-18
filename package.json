@@ -1,0 +1,10 @@
+{
+  "name": "ts-pnp-paths",
+  "version": "0.0.1",
+  "description": "Maps Typescript paths for a Yarn PnP package",
+  "main": "index.js",
+  "repository": "https://github.com/tobiasmelen/ts-pnp-paths",
+  "author": "Tobias Melen",
+  "license": "MIT",
+  "private": false
+}
